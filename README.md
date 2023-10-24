@@ -44,3 +44,63 @@ The role responsible for ensuring that the solution delivered will enable the be
 **C. Business Sponsor.**
 
 The Business Sponsor is typically responsible for the overall success of the project and ensuring that it aligns with the organization's strategic goals and delivers the expected benefits. They play a crucial role in overseeing the business case and its realization.
+
+Certainly, here are the questions and answers in Markdown format:
+
+### Question 4
+In a DSDM project, what does the ‘W’ in ‘MoSCoW’ stand for?
+- A. Want this
+- B. Won’t have this time
+- C. Would have
+- D. Wish list
+
+In a DSDM (Dynamic Systems Development Method) project, the 'W' in 'MoSCoW' stands for:
+
+**B. Won't have this time.**
+
+The "Won't have this time" category represents features or requirements that are explicitly excluded from the project's scope and will not be delivered in the current iteration or phase.
+
+### Question 5
+In a structured Timebox, when does the Solution Development Team seek to understand the Timebox objectives and accept them as realistic?
+- A. Investigation
+- B. Kick-Off
+- C. Consolidation
+- D. Refinement
+
+In a structured Timebox within DSDM (Dynamic Systems Development Method), the Solution Development Team seeks to understand the Timebox objectives and accept them as realistic during the:
+
+**B. Kick-Off** phase.
+
+During the Kick-Off phase, the team establishes a clear understanding of the Timebox objectives, ensures that they are realistic and achievable within the allocated time, and begins the work to deliver the required functionality or features.
+
+### Question 6
+Which of the following statements about DSDM are true?
+- May be used to supplement an existing in-house Agile approach
+- Deals with the development and delivery of a product rather than the full project
+- Works alongside existing standards and approaches
+- Suited to the development of new solutions and enhancing existing solutions
+
+The correct statement about DSDM (Dynamic Systems Development Method) is:
+
+**C. 1, 3, 4**
+
+1. DSDM may be used to supplement an existing in-house Agile approach.
+3. DSDM works alongside existing standards and approaches.
+4. DSDM is suited to the development of new solutions and enhancing existing solutions.
+
+These statements accurately describe the characteristics and flexibility of DSDM in practice.
+
+### Question 7
+In DSDM (Dynamic Systems Development Method), what is designed to shape the attitude and mindset of a DSDM team?
+- A. Phases
+- B. Philosophy
+- C. Principles
+- D. Processes
+
+In DSDM (Dynamic Systems Development Method), what is designed to shape the attitude and mindset of a DSDM team is:
+
+**B. Philosophy.**
+
+The DSDM philosophy embodies the core values and beliefs that shape the mindset and approach of a DSDM team, emphasizing collaboration, adaptability, and delivering value.
+
+
